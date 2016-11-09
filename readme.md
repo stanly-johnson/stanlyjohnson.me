@@ -1,2 +1,2 @@
 stanlyjohnson.me <br/>
-Template courtesy : 
+Template courtesy : StartBootstrap
