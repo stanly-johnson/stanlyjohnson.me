@@ -1,2 +1,2 @@
-<a href ="http://stanlyjohnson.me">stanlyjohnson.me</a> <br/>
+<a href ="http://stanly.ml">stanly.ml</a> <br/>
 Template courtesy : StartBootstrap
