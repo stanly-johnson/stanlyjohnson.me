@@ -1,2 +1,2 @@
-<a href ="http://stanly.ml">stanly.ml</a> <br/>
+<a href ="http://stanlyjohnson.me">stanlyjohnson.me</a> <br/>
 Template courtesy : Bootswatch
